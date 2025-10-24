@@ -1,0 +1,21 @@
+# Maven
+target/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos sensibles o locales
+.env
+application.properties
+application.yml
