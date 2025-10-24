@@ -1,8 +1,0 @@
-com\example\qrdemo\model\Persona.class
-com\example\qrdemo\QrDemoApplication.class
-com\example\qrdemo\controller\ApiQrController.class
-com\example\qrdemo\util\QrUtils.class
-com\example\qrdemo\service\QrServiceImpl.class
-com\example\qrdemo\repository\PersonaRepository.class
-com\example\qrdemo\service\QrService.class
-com\example\qrdemo\config\SecurityConfig.class
